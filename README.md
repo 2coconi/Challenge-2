@@ -18,7 +18,7 @@ This project leverages python 3.9.7 with the following packages:
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+
 You can install Fire from the Python Package Index (PyPI) by using the pip command:
 pip install fire
 
